@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Zohaib 👋
 
-<!--
-**mzohaibgul/mzohaibgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student @ University of Haripur  
+💻 Skilled in Python, C++, and MS Office Suite  
+🧠 Passionate about learning Computer Vision, Deep Learning & real-world AI systems  
+🤝 Committed to teamwork, leadership, and continuous learning  
 
-Here are some ideas to get you started:
+### ⚡ Skills
+- Python & C++
+- AI Tools & Technologies
+- Time Management & Communication
+- Critical Thinking & Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Advance expertise in Computer Vision & Deep Learning  
+- Contribute to impactful open-source AI projects  
+- Build intelligent systems to solve real-world problems  
+- Pursue research or professional opportunities in applied AI  
+- Continuously grow through hands-on learning and collaboration  
+
+### 📫 Contact Me
+- Email: gulzohaib11@gmail.com  
+- https://www.linkedin.com/in/muhammad-zohaib-gul-a5bb04209/
