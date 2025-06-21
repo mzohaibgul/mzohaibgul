@@ -6,9 +6,10 @@
 🤝 Committed to teamwork, leadership, and continuous learning  
 
 ### ⚡ Skills
-- Python & C++
-- AI Tools & Technologies
-- Time Management & Communication
+- Programming: Python & C++  
+- Libraries & Tools: OpenCV, Tkinter, TensorFlow, scikit-learn  
+- AI Tools & Technologies  
+- Time Management & Communication  
 - Critical Thinking & Problem Solving
 
 ### 🎯 Goals
